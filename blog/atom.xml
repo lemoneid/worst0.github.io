@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://worst0.github.io/blog</id>
-    <title>Worst's Wiki Blog</title>
+    <id>https://yanzhw.github.io/blog</id>
+    <title>My Wiki Blog</title>
     <updated>2021-06-23T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://worst0.github.io/blog"/>
-    <subtitle>Worst's Wiki Blog</subtitle>
-    <icon>https://worst0.github.io/img/favicon.ico</icon>
+    <link rel="alternate" href="https://yanzhw.github.io/blog"/>
+    <subtitle>My Wiki Blog</subtitle>
+    <icon>https://yanzhw.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[SVG]]></title>
         <id>SVG</id>
-        <link href="https://worst0.github.io/blog/SVG"/>
+        <link href="https://yanzhw.github.io/blog/SVG"/>
         <updated>2021-06-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[img]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[template]]></title>
         <id>template</id>
-        <link href="https://worst0.github.io/blog/template"/>
+        <link href="https://yanzhw.github.io/blog/template"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[this is blog template;]]></summary>
     </entry>
