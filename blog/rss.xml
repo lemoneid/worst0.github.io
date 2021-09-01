@@ -2,21 +2,21 @@
 <rss version="2.0">
     <channel>
         <title>My Wiki Blog</title>
-        <link>https://yanzhw.github.io/blog</link>
+        <link>https://worst0.github.io/blog</link>
         <description>My Wiki Blog</description>
         <lastBuildDate>Wed, 23 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[SVG]]></title>
-            <link>https://yanzhw.github.io/blog/SVG</link>
+            <link>https://worst0.github.io/blog/SVG</link>
             <guid>SVG</guid>
             <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[img]]></description>
         </item>
         <item>
             <title><![CDATA[template]]></title>
-            <link>https://yanzhw.github.io/blog/template</link>
+            <link>https://worst0.github.io/blog/template</link>
             <guid>template</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[this is blog template;]]></description>
