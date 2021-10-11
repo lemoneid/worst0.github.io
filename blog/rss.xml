@@ -4,9 +4,16 @@
         <title>My Wiki Blog</title>
         <link>https://worst0.github.io/blog</link>
         <description>My Wiki Blog</description>
-        <lastBuildDate>Tue, 07 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[daily]]></title>
+            <link>https://worst0.github.io/blog/daily</link>
+            <guid>daily</guid>
+            <pubDate>Tue, 14 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[知识点]]></description>
+        </item>
         <item>
             <title><![CDATA[20210907-daily]]></title>
             <link>https://worst0.github.io/blog/20210907-daily</link>

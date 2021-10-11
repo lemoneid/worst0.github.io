@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[2535],{45641:function(e){e.exports=JSON.parse('{"title":"Recent","items":[{"title":"20210907-daily","permalink":"/blog/20210907-daily"},{"title":"SVG","permalink":"/blog/SVG"},{"title":"template","permalink":"/blog/template"}]}')}}]);
